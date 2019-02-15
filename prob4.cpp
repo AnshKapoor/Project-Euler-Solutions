@@ -51,7 +51,11 @@ int isPal(int num)
   
 // Driver program to test above functions 
 int main() 
-{ 
+{ int n1 = 999,n2=999;
+ for(int i=n1;i>=100;i--){
+ long long double n = n1*i;
+     
+ }
     
     return 0; 
 } 
